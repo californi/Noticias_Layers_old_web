@@ -1,0 +1,30 @@
+C:\Users\brsiqueira\Desktop\ProjetoES\Noticias\Noticias\Noticia.Entidades\bin\Debug\Noticia.Entidades.dll
+C:\Users\brsiqueira\Desktop\ProjetoES\Noticias\Noticias\Noticia.Entidades\bin\Debug\Noticia.Entidades.pdb
+C:\Users\brsiqueira\Desktop\ProjetoES\Noticias\Noticias\Noticia.Entidades\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\brsiqueira\Desktop\ProjetoES\Noticias\Noticias\Noticia.Entidades\obj\Debug\Noticia.Entidades.dll
+C:\Users\brsiqueira\Desktop\ProjetoES\Noticias\Noticias\Noticia.Entidades\obj\Debug\Noticia.Entidades.pdb
+C:\Users\BentorSiqueira\Dropbox\ProjetoDotNet_ES\GerenciaNoticia\Noticias\Noticia.Entidades\bin\Debug\Noticia.Entidades.dll
+C:\Users\BentorSiqueira\Dropbox\ProjetoDotNet_ES\GerenciaNoticia\Noticias\Noticia.Entidades\bin\Debug\Noticia.Entidades.pdb
+C:\Users\BentorSiqueira\Dropbox\ProjetoDotNet_ES\GerenciaNoticia\Noticias\Noticia.Entidades\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BentorSiqueira\Dropbox\ProjetoDotNet_ES\GerenciaNoticia\Noticias\Noticia.Entidades\obj\Debug\Noticia.Entidades.dll
+C:\Users\BentorSiqueira\Dropbox\ProjetoDotNet_ES\GerenciaNoticia\Noticias\Noticia.Entidades\obj\Debug\Noticia.Entidades.pdb
+E:\Materias\Mestrado\OP2_ENG\Entregas\Noticias\Noticias\Noticia.Entidades\bin\Debug\Noticia.Entidades.dll
+E:\Materias\Mestrado\OP2_ENG\Entregas\Noticias\Noticias\Noticia.Entidades\bin\Debug\Noticia.Entidades.pdb
+E:\Materias\Mestrado\OP2_ENG\Entregas\Noticias\Noticias\Noticia.Entidades\obj\Debug\Noticia.Entidades.csprojResolveAssemblyReference.cache
+E:\Materias\Mestrado\OP2_ENG\Entregas\Noticias\Noticias\Noticia.Entidades\obj\Debug\Noticia.Entidades.dll
+E:\Materias\Mestrado\OP2_ENG\Entregas\Noticias\Noticias\Noticia.Entidades\obj\Debug\Noticia.Entidades.pdb
+E:\Materias\Mestrado\OP2_ENG\Projeto\Noticias\Noticia.Entidades\bin\Debug\Noticia.Entidades.dll
+E:\Materias\Mestrado\OP2_ENG\Projeto\Noticias\Noticia.Entidades\bin\Debug\Noticia.Entidades.pdb
+E:\Materias\Mestrado\OP2_ENG\Projeto\Noticias\Noticia.Entidades\obj\Debug\Noticia.Entidades.csprojResolveAssemblyReference.cache
+E:\Materias\Mestrado\OP2_ENG\Projeto\Noticias\Noticia.Entidades\obj\Debug\Noticia.Entidades.dll
+E:\Materias\Mestrado\OP2_ENG\Projeto\Noticias\Noticia.Entidades\obj\Debug\Noticia.Entidades.pdb
+E:\Materias\Mestrado\OP2_ENG\ProjetoEntrega\Noticias\Noticia.Entidades\bin\Debug\Noticia.Entidades.dll
+E:\Materias\Mestrado\OP2_ENG\ProjetoEntrega\Noticias\Noticia.Entidades\bin\Debug\Noticia.Entidades.pdb
+E:\Materias\Mestrado\OP2_ENG\ProjetoEntrega\Noticias\Noticia.Entidades\obj\Debug\Noticia.Entidades.csprojResolveAssemblyReference.cache
+E:\Materias\Mestrado\OP2_ENG\ProjetoEntrega\Noticias\Noticia.Entidades\obj\Debug\Noticia.Entidades.dll
+E:\Materias\Mestrado\OP2_ENG\ProjetoEntrega\Noticias\Noticia.Entidades\obj\Debug\Noticia.Entidades.pdb
+C:\Users\Luiz\Desktop\Projeto Gerencia Noticia\Noticias\Noticia.Entidades\bin\Debug\Noticia.Entidades.dll
+C:\Users\Luiz\Desktop\Projeto Gerencia Noticia\Noticias\Noticia.Entidades\bin\Debug\Noticia.Entidades.pdb
+C:\Users\Luiz\Desktop\Projeto Gerencia Noticia\Noticias\Noticia.Entidades\obj\Debug\Noticia.Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Luiz\Desktop\Projeto Gerencia Noticia\Noticias\Noticia.Entidades\obj\Debug\Noticia.Entidades.dll
+C:\Users\Luiz\Desktop\Projeto Gerencia Noticia\Noticias\Noticia.Entidades\obj\Debug\Noticia.Entidades.pdb

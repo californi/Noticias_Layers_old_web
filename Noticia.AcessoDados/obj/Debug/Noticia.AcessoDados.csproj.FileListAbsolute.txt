@@ -1,0 +1,35 @@
+C:\Users\BentorSiqueira\Dropbox\ProjetoDotNet_ES\GerenciaNoticia\Noticias\Noticia.AcessoDados\bin\Debug\Noticia.AcessoDados.dll
+C:\Users\BentorSiqueira\Dropbox\ProjetoDotNet_ES\GerenciaNoticia\Noticias\Noticia.AcessoDados\bin\Debug\Noticia.AcessoDados.pdb
+C:\Users\BentorSiqueira\Dropbox\ProjetoDotNet_ES\GerenciaNoticia\Noticias\Noticia.AcessoDados\bin\Debug\Noticia.Entidades.dll
+C:\Users\BentorSiqueira\Dropbox\ProjetoDotNet_ES\GerenciaNoticia\Noticias\Noticia.AcessoDados\bin\Debug\Noticia.Entidades.pdb
+C:\Users\BentorSiqueira\Dropbox\ProjetoDotNet_ES\GerenciaNoticia\Noticias\Noticia.AcessoDados\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BentorSiqueira\Dropbox\ProjetoDotNet_ES\GerenciaNoticia\Noticias\Noticia.AcessoDados\obj\Debug\Noticia.AcessoDados.dll
+C:\Users\BentorSiqueira\Dropbox\ProjetoDotNet_ES\GerenciaNoticia\Noticias\Noticia.AcessoDados\obj\Debug\Noticia.AcessoDados.pdb
+E:\Materias\Mestrado\OP2_ENG\Entregas\Noticias\Noticias\Noticia.AcessoDados\bin\Debug\Noticia.AcessoDados.dll
+E:\Materias\Mestrado\OP2_ENG\Entregas\Noticias\Noticias\Noticia.AcessoDados\bin\Debug\Noticia.AcessoDados.pdb
+E:\Materias\Mestrado\OP2_ENG\Entregas\Noticias\Noticias\Noticia.AcessoDados\bin\Debug\Noticia.Entidades.dll
+E:\Materias\Mestrado\OP2_ENG\Entregas\Noticias\Noticias\Noticia.AcessoDados\bin\Debug\Noticia.Entidades.pdb
+E:\Materias\Mestrado\OP2_ENG\Entregas\Noticias\Noticias\Noticia.AcessoDados\obj\Debug\Noticia.AcessoDados.csprojResolveAssemblyReference.cache
+E:\Materias\Mestrado\OP2_ENG\Entregas\Noticias\Noticias\Noticia.AcessoDados\obj\Debug\Noticia.AcessoDados.dll
+E:\Materias\Mestrado\OP2_ENG\Entregas\Noticias\Noticias\Noticia.AcessoDados\obj\Debug\Noticia.AcessoDados.pdb
+E:\Materias\Mestrado\OP2_ENG\Projeto\Noticias\Noticia.AcessoDados\bin\Debug\Noticia.AcessoDados.dll
+E:\Materias\Mestrado\OP2_ENG\Projeto\Noticias\Noticia.AcessoDados\bin\Debug\Noticia.AcessoDados.pdb
+E:\Materias\Mestrado\OP2_ENG\Projeto\Noticias\Noticia.AcessoDados\bin\Debug\Noticia.Entidades.dll
+E:\Materias\Mestrado\OP2_ENG\Projeto\Noticias\Noticia.AcessoDados\bin\Debug\Noticia.Entidades.pdb
+E:\Materias\Mestrado\OP2_ENG\Projeto\Noticias\Noticia.AcessoDados\obj\Debug\Noticia.AcessoDados.csprojResolveAssemblyReference.cache
+E:\Materias\Mestrado\OP2_ENG\Projeto\Noticias\Noticia.AcessoDados\obj\Debug\Noticia.AcessoDados.dll
+E:\Materias\Mestrado\OP2_ENG\Projeto\Noticias\Noticia.AcessoDados\obj\Debug\Noticia.AcessoDados.pdb
+E:\Materias\Mestrado\OP2_ENG\ProjetoEntrega\Noticias\Noticia.AcessoDados\bin\Debug\Noticia.AcessoDados.dll
+E:\Materias\Mestrado\OP2_ENG\ProjetoEntrega\Noticias\Noticia.AcessoDados\bin\Debug\Noticia.AcessoDados.pdb
+E:\Materias\Mestrado\OP2_ENG\ProjetoEntrega\Noticias\Noticia.AcessoDados\bin\Debug\Noticia.Entidades.dll
+E:\Materias\Mestrado\OP2_ENG\ProjetoEntrega\Noticias\Noticia.AcessoDados\bin\Debug\Noticia.Entidades.pdb
+E:\Materias\Mestrado\OP2_ENG\ProjetoEntrega\Noticias\Noticia.AcessoDados\obj\Debug\Noticia.AcessoDados.csprojResolveAssemblyReference.cache
+E:\Materias\Mestrado\OP2_ENG\ProjetoEntrega\Noticias\Noticia.AcessoDados\obj\Debug\Noticia.AcessoDados.dll
+E:\Materias\Mestrado\OP2_ENG\ProjetoEntrega\Noticias\Noticia.AcessoDados\obj\Debug\Noticia.AcessoDados.pdb
+C:\Users\Luiz\Desktop\Projeto Gerencia Noticia\Noticias\Noticia.AcessoDados\bin\Debug\Noticia.AcessoDados.dll
+C:\Users\Luiz\Desktop\Projeto Gerencia Noticia\Noticias\Noticia.AcessoDados\bin\Debug\Noticia.AcessoDados.pdb
+C:\Users\Luiz\Desktop\Projeto Gerencia Noticia\Noticias\Noticia.AcessoDados\bin\Debug\Noticia.Entidades.dll
+C:\Users\Luiz\Desktop\Projeto Gerencia Noticia\Noticias\Noticia.AcessoDados\bin\Debug\Noticia.Entidades.pdb
+C:\Users\Luiz\Desktop\Projeto Gerencia Noticia\Noticias\Noticia.AcessoDados\obj\Debug\Noticia.AcessoDados.csprojResolveAssemblyReference.cache
+C:\Users\Luiz\Desktop\Projeto Gerencia Noticia\Noticias\Noticia.AcessoDados\obj\Debug\Noticia.AcessoDados.dll
+C:\Users\Luiz\Desktop\Projeto Gerencia Noticia\Noticias\Noticia.AcessoDados\obj\Debug\Noticia.AcessoDados.pdb

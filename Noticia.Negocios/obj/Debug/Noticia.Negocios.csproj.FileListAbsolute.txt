@@ -1,0 +1,45 @@
+C:\Users\BentorSiqueira\Dropbox\ProjetoDotNet_ES\GerenciaNoticia\Noticias\Noticia.Negocios\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BentorSiqueira\Dropbox\ProjetoDotNet_ES\GerenciaNoticia\Noticias\Noticia.Negocios\bin\Debug\Noticia.Negocios.dll
+C:\Users\BentorSiqueira\Dropbox\ProjetoDotNet_ES\GerenciaNoticia\Noticias\Noticia.Negocios\bin\Debug\Noticia.Negocios.pdb
+C:\Users\BentorSiqueira\Dropbox\ProjetoDotNet_ES\GerenciaNoticia\Noticias\Noticia.Negocios\bin\Debug\Noticia.AcessoDados.dll
+C:\Users\BentorSiqueira\Dropbox\ProjetoDotNet_ES\GerenciaNoticia\Noticias\Noticia.Negocios\bin\Debug\Noticia.Entidades.dll
+C:\Users\BentorSiqueira\Dropbox\ProjetoDotNet_ES\GerenciaNoticia\Noticias\Noticia.Negocios\bin\Debug\Noticia.AcessoDados.pdb
+C:\Users\BentorSiqueira\Dropbox\ProjetoDotNet_ES\GerenciaNoticia\Noticias\Noticia.Negocios\bin\Debug\Noticia.Entidades.pdb
+C:\Users\BentorSiqueira\Dropbox\ProjetoDotNet_ES\GerenciaNoticia\Noticias\Noticia.Negocios\obj\Debug\Noticia.Negocios.dll
+C:\Users\BentorSiqueira\Dropbox\ProjetoDotNet_ES\GerenciaNoticia\Noticias\Noticia.Negocios\obj\Debug\Noticia.Negocios.pdb
+E:\Materias\Mestrado\OP2_ENG\Entregas\Noticias\Noticias\Noticia.Negocios\bin\Debug\Noticia.Negocios.dll
+E:\Materias\Mestrado\OP2_ENG\Entregas\Noticias\Noticias\Noticia.Negocios\bin\Debug\Noticia.Negocios.pdb
+E:\Materias\Mestrado\OP2_ENG\Entregas\Noticias\Noticias\Noticia.Negocios\bin\Debug\Noticia.AcessoDados.dll
+E:\Materias\Mestrado\OP2_ENG\Entregas\Noticias\Noticias\Noticia.Negocios\bin\Debug\Noticia.Entidades.dll
+E:\Materias\Mestrado\OP2_ENG\Entregas\Noticias\Noticias\Noticia.Negocios\bin\Debug\Noticia.AcessoDados.pdb
+E:\Materias\Mestrado\OP2_ENG\Entregas\Noticias\Noticias\Noticia.Negocios\bin\Debug\Noticia.Entidades.pdb
+E:\Materias\Mestrado\OP2_ENG\Entregas\Noticias\Noticias\Noticia.Negocios\obj\Debug\Noticia.Negocios.csprojResolveAssemblyReference.cache
+E:\Materias\Mestrado\OP2_ENG\Entregas\Noticias\Noticias\Noticia.Negocios\obj\Debug\Noticia.Negocios.dll
+E:\Materias\Mestrado\OP2_ENG\Entregas\Noticias\Noticias\Noticia.Negocios\obj\Debug\Noticia.Negocios.pdb
+E:\Materias\Mestrado\OP2_ENG\Projeto\Noticias\Noticia.Negocios\bin\Debug\Noticia.Negocios.dll
+E:\Materias\Mestrado\OP2_ENG\Projeto\Noticias\Noticia.Negocios\bin\Debug\Noticia.Negocios.pdb
+E:\Materias\Mestrado\OP2_ENG\Projeto\Noticias\Noticia.Negocios\bin\Debug\Noticia.AcessoDados.dll
+E:\Materias\Mestrado\OP2_ENG\Projeto\Noticias\Noticia.Negocios\bin\Debug\Noticia.Entidades.dll
+E:\Materias\Mestrado\OP2_ENG\Projeto\Noticias\Noticia.Negocios\bin\Debug\Noticia.AcessoDados.pdb
+E:\Materias\Mestrado\OP2_ENG\Projeto\Noticias\Noticia.Negocios\bin\Debug\Noticia.Entidades.pdb
+E:\Materias\Mestrado\OP2_ENG\Projeto\Noticias\Noticia.Negocios\obj\Debug\Noticia.Negocios.csprojResolveAssemblyReference.cache
+E:\Materias\Mestrado\OP2_ENG\Projeto\Noticias\Noticia.Negocios\obj\Debug\Noticia.Negocios.dll
+E:\Materias\Mestrado\OP2_ENG\Projeto\Noticias\Noticia.Negocios\obj\Debug\Noticia.Negocios.pdb
+E:\Materias\Mestrado\OP2_ENG\ProjetoEntrega\Noticias\Noticia.Negocios\bin\Debug\Noticia.Negocios.dll
+E:\Materias\Mestrado\OP2_ENG\ProjetoEntrega\Noticias\Noticia.Negocios\bin\Debug\Noticia.Negocios.pdb
+E:\Materias\Mestrado\OP2_ENG\ProjetoEntrega\Noticias\Noticia.Negocios\bin\Debug\Noticia.AcessoDados.dll
+E:\Materias\Mestrado\OP2_ENG\ProjetoEntrega\Noticias\Noticia.Negocios\bin\Debug\Noticia.Entidades.dll
+E:\Materias\Mestrado\OP2_ENG\ProjetoEntrega\Noticias\Noticia.Negocios\bin\Debug\Noticia.AcessoDados.pdb
+E:\Materias\Mestrado\OP2_ENG\ProjetoEntrega\Noticias\Noticia.Negocios\bin\Debug\Noticia.Entidades.pdb
+E:\Materias\Mestrado\OP2_ENG\ProjetoEntrega\Noticias\Noticia.Negocios\obj\Debug\Noticia.Negocios.csprojResolveAssemblyReference.cache
+E:\Materias\Mestrado\OP2_ENG\ProjetoEntrega\Noticias\Noticia.Negocios\obj\Debug\Noticia.Negocios.dll
+E:\Materias\Mestrado\OP2_ENG\ProjetoEntrega\Noticias\Noticia.Negocios\obj\Debug\Noticia.Negocios.pdb
+C:\Users\Luiz\Desktop\Projeto Gerencia Noticia\Noticias\Noticia.Negocios\bin\Debug\Noticia.Negocios.dll
+C:\Users\Luiz\Desktop\Projeto Gerencia Noticia\Noticias\Noticia.Negocios\bin\Debug\Noticia.Negocios.pdb
+C:\Users\Luiz\Desktop\Projeto Gerencia Noticia\Noticias\Noticia.Negocios\bin\Debug\Noticia.AcessoDados.dll
+C:\Users\Luiz\Desktop\Projeto Gerencia Noticia\Noticias\Noticia.Negocios\bin\Debug\Noticia.Entidades.dll
+C:\Users\Luiz\Desktop\Projeto Gerencia Noticia\Noticias\Noticia.Negocios\bin\Debug\Noticia.AcessoDados.pdb
+C:\Users\Luiz\Desktop\Projeto Gerencia Noticia\Noticias\Noticia.Negocios\bin\Debug\Noticia.Entidades.pdb
+C:\Users\Luiz\Desktop\Projeto Gerencia Noticia\Noticias\Noticia.Negocios\obj\Debug\Noticia.Negocios.csprojResolveAssemblyReference.cache
+C:\Users\Luiz\Desktop\Projeto Gerencia Noticia\Noticias\Noticia.Negocios\obj\Debug\Noticia.Negocios.dll
+C:\Users\Luiz\Desktop\Projeto Gerencia Noticia\Noticias\Noticia.Negocios\obj\Debug\Noticia.Negocios.pdb
